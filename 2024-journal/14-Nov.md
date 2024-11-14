@@ -7,5 +7,11 @@ The memoir is for the Fab 4 directly involved with the family fire that occurred
 
 For:  Kandie, Warren, Carla, and me
 
+## Lost in Time
+The Tamarack Fire (Updated Sun, August 1st 2021 at 1:00 PM) refers to a 2021 forest fire that occurred in Nevada!  As time marches on, memories fade as do the true nature of events.  Maybe it is a series of unfortunate events, or a comedy=>tragedy of errors.  Regardless, what occurred, from my perspective needs to be disclosed with transparency and honesty, as far as possibly.  So the primary research needs to be outlined and documented:
+- What did the Hungry Horse say occurred?
+- What did the family newsletter say occurred?
+- What did the official fire-inspector report say?
+
 
 
