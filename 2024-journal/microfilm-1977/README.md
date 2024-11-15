@@ -1,4 +1,4 @@
-Hungry Horse (no obits?)
-Whitefish Pilot (nada)
-Daily Interlake (short + obits)
+-Hungry Horse (no obits?)
+-Whitefish Pilot (nada)
+-Daily Interlake (short + obits)
 
