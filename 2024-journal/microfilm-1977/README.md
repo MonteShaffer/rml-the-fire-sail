@@ -1,4 +1,4 @@
-#92 images, reminiscing
+# 92 images, reminiscing
 
 -Hungry Horse (no obits?)
 -Whitefish Pilot (nada)
