@@ -43,8 +43,10 @@
 | Carla: |   (moving blankets, wrapping towel around arm) Monte, where is Warren? |
 | Monte: |   Mama, you are bleeding. | 
 | Carla: |   I will be fine.  Where is Warren? |
-| Monte: |   Warren is there (pointing to the right).  He must be sleeping.  When I grabbed his hand, I felt a strong shock and then a strange tingling.  My feet and the back of my neck are still tingling.
-| 
+| Monte: |   Warren is there (pointing to the right).  He must be sleeping.  When I grabbed his hand, I felt a strong shock and then a strange tingling.  My feet and the back of my neck are still tingling. |
+
+| Person | Dialogue |
+| :---------------- | :------  | 
 | Carla: |   (seeing Warren).  Okay, Monte.  Let's go.  I will come back for Warren.  |
 | Monte: |   Mama, we can't leave Warren.  There is smoke and fire.  We have to help him now. | 
 | Carla: |   (maternal palm-cheek hug).  Monte.  Listen carefully.  Warren is sleeping.  Warren is sleeping with the angels.  Warren will not wake up right now.  He will go live with Jesus in Heaven.  Do you hear me son? (she picks up Monte and takes him to stairwell)|
