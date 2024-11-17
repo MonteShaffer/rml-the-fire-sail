@@ -24,10 +24,11 @@
 | Ed: |  I have a call!  There's a housefire out on Tamarack Lane.  It may be the Shaffer home.   | 
 | Lana: |  Carla's house is on fire?!?  I just got off the phone with her.  She was late picking up the oldest kids from primary.   | 
 | Ed (exasperated): |  Lana, what did you do?   | 
+
 ###(Awkward Pause)
 | Person | Dialogue |
 | :---------------- | :------  |
-| Ed (decisive): |  It doesn't matter now.  But you should probably follow me to the house.  The kids shouldn't be there.  Maybe call the Kiser's and see if you can take them there.  I got to go.  Like Now.
+| Ed (decisive): |  It doesn't matter now.  But you should probably follow me to the house in your car.  The kids shouldn't be there.  Maybe take them to the Kiser's.  I got to go.  Like Now! |
 
 ###(SHAFFER HOME, 4:16PM)
 | Person | Dialogue |
@@ -58,9 +59,17 @@
 | Person | Dialogue |
 | :---------------- | :------  |
 | Carla: |   Michael.  Turn on the water and shoot the hose towards Kandie's room.  I need to go get her. |
+
+
 ###(SHAFFER HOME, 4:28PM)
+| Person | Dialogue |
+| :---------------- | :------  |
 | Volunteer Firefighter #1: |   Sorry ma'am.  I can't let you go in the house. (Carla tries to race past him, but he clutches her in a big bear hug.  Carla is forced away from the house towards the street where she sees Lana signaling to her). |
+
+
 ###(SHAFFER HOME, 4:30PM)
+| Person | Dialogue |
+| :---------------- | :------  |
 | Lana: |   Carla.  I came to get your children and get them away from this scene.  No child should ever have to see this.  Your girls are in the car.  I called for Monte, but he would not come.  And Michael has already been seen, so maybe I take the girls over to Louise Kiser's.  Is that OK? |
 | Carla: |   Just Go!  Get my girls to safety. |
 
