@@ -1,10 +1,10 @@
 # RING!  
 ## March 1, 1977 (4:05 PM)
 
-<p align="center">(RING!, 4:05PM)[^1]</p>
+###(RING!, 4:05PM)[^1]
 
 | Person | Dialogue |
-| :---------------- | :------  |
+| :--------------------------- | :------  |
 | Carla: |   Hello?   | 
 | Lana: [^2]|   Carla, it's 4:05PM and your children are still here at the Church. [^2]  | 
 | Carla:    |  Hi Lana.  Thanks for letting me know.  David was supposed to pick them up at 4.  Is he not there yet?   | 
@@ -14,10 +14,10 @@
 | Carla: |   But, I can't leave the house yet.  | 
 | Lana: |  I will not repeat myself.  If you are not here by 4:15PM, your children won't participate in this afterschool program again.  Do you hear me!   | 
 
-<p align="center">(CLICK, DIALTONE!, 4:05PM)</p>
+###(CLICK, DIALTONE!, 4:06PM)
 
 
-<p align="center">(TOREN HOME, 4:17PM)
+###(TOREN HOME, 4:17PM)
 | Person | Dialogue |
 | :---------------- | :------  |
 | Lana: |  Ed, where are you?   | 
