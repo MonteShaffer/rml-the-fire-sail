@@ -3,7 +3,7 @@
 
 <p align="center">(RING!, 4:05PM)[^1]</p>
 
-
+| Person | Dialogue |
 | :---------------- | :------  |
 | Carla: |   Hello?   | 
 | Lana: [^2]|   Carla, it's 4:05PM and your children are still here at the Church. [^2]  | 
@@ -18,6 +18,8 @@
 
 
 <p align="center">(TOREN HOME, 4:17PM)
+| Person | Dialogue |
+| :---------------- | :------  |
 | Lana: |  Ed, where are you?   | 
 | Ed: |  I have a call!  There's a housefire out on Tamarack Lane.  It may be the Shaffer home.   | 
 | Lana: |  Carla's house is on fire?!?  I just got off the phone with her.  She was late picking up the oldest kids from primary.   | 
