@@ -6,7 +6,7 @@
 | Person | Dialogue |
 | :--------------------------- | :------  |
 | Carla: |   Hello?   | 
-| Lana: |   Carla, it's 4:05PM and your children are still here at the Church. [^2]  | 
+| Lana: |   Carla, it's 4:05PM and your children are still here at the Church [^2].   | 
 | Carla:    |  Hi Lana [^3].  Thanks for letting me know.  David was supposed to pick them up at 4.  Is he not there yet?   | 
 | Lana: |  Would I be calling if he was here!   | 
 | Carla: |   You're right, sorry.  I can pick them up in a few minutes when Warren's mom shows up.  I just put Kandie down for a nap.   | 
