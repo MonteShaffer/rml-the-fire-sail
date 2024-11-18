@@ -75,7 +75,7 @@
 | Person | Dialogue |
 | :---------------- | :------  |
 | Lana: |   Carla.  I came to get your children and get them away from this scene.  No child should ever have to see this.  Your girls are in the car.  I called for Monte, but he would not budge from the stairwell.  And Michael has already been seen by others, so he should probably stay here.  Maybe I take the girls over to Louise Kiser's.  Is that OK? |
-| Carla: |   Just Go!  (Carla sits on the ground and begins sobbing.  Her calm fortitude has yielded to the realities of the situation:  age 28, she barely was able to save her fifth child and because of 'firefighters' and their safety requirements, her sixth child will likely sleep with the angels like Warren.) |
+| Carla: |   Just Go!  (Carla sits on the ground and begins sobbing.  Her calm fortitude has yielded to the realities of the situation:  age 28, she barely was able to save her fifth child and now, because of 'firefighters' and their safety requirements, her sixth child will likely sleep with the angels like Warren.) |
 
 
 
