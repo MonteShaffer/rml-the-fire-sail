@@ -87,6 +87,5 @@
 
  
 
-[^3]: Lana Toren represents a busy-body personality type.  A rule follower, a stickler for rules.  Conveniently, LANA is an anagram for ANAL, as in the "anal retentive" personality class.  In Hebrew, the "Torah" represents the written word of God (Tor = papyrus, YAH = God), so "Toren" would represent the written rules of men based on their understanding of God's word.  In Hebrew, Lana Toren would mean basically "the light of the written rules" and her son Derek Toren would mean "the way of the written rules".  Institutions interpret God's word and create policies, procedures, and rituals; that is, by definition, the philosophies of men (and women) mingled with scripture.
-
+[^3]: Lana Toren represents a busy-body personality type.  A rule follower, a stickler for rules.  Conveniently, LANA is an anagram for ANAL, as in the "anal retentive" personality class.  In Hebrew, the "Torah" represents the written word of God (Tor = papyrus, YAH = God), so "Toren" would represent the written rules of men based on their understanding of God's word.  In Hebrew, Toren would mean a banner of written rules of man.  Lana would mean the shining example.  Derek, her son, would mean the "custom" or "way of living".  Taken together, the names would reflect the institutionalization of God's word (Torah) as understood and defined by the philosophies of men (and women).  Said differently, Institutions interpret God's word and create policies, procedures, and rituals that impose a socially constructed morality onto the societies they influence and control.
 
